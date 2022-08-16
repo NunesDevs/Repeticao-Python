@@ -1,6 +1,3 @@
-# Calculadora-1
+<h1>Python</h1>
 
-Projeto com alguns exemplos de estrutura de repetição em python:
-
--  for
-- while
+Repositório com alguns exemplos usando estrutura de repetição em Python
